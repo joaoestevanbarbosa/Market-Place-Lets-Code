@@ -1,0 +1,16 @@
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.csproj.AssemblyReference.cache
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.AssemblyInfoInputs.cache
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.AssemblyInfo.cs
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.csproj.CoreCompileInputs.cache
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\bin\Debug\net5.0\projeto-csharp-2.exe
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\bin\Debug\net5.0\projeto-csharp-2.deps.json
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\bin\Debug\net5.0\projeto-csharp-2.runtimeconfig.json
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\bin\Debug\net5.0\projeto-csharp-2.runtimeconfig.dev.json
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\bin\Debug\net5.0\projeto-csharp-2.dll
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\bin\Debug\net5.0\ref\projeto-csharp-2.dll
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\bin\Debug\net5.0\projeto-csharp-2.pdb
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.dll
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\ref\projeto-csharp-2.dll
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.pdb
+C:\Users\João Estevan\Desktop\Lets Code\AngularComNet\projeto-csharp-2\obj\Debug\net5.0\projeto-csharp-2.genruntimeconfig.cache
