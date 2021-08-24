@@ -10,11 +10,9 @@ namespace projeto_csharp_2
         public string name { get; set; }
         public Address deliveryAddress { get; set; }
         public Address billingAddress { get; set; }
-        public string user { get; set; }
+        public string username { get; set; }
         public string password { get; set; }
         public DateTime birthDate { get; set; }
-
-
         public override string ToString()
         {
             return $"{name}";

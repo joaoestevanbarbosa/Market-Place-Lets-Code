@@ -1,5 +1,5 @@
-
 using System;
+using System.Globalization;
 
 namespace projeto_csharp_2
 {
@@ -35,21 +35,59 @@ namespace projeto_csharp_2
            Console.WriteLine(deliveryAddress);
 
            Console.WriteLine("S - SIM, N - Não");
-           var option = Console.Readline();
+           var option = Console.ReadLine();
 
            if (option == "S") return deliveryAddress;
 
-            return ReadAdress();
+            return ReadAddress();
        }
 
        public static void CreateSeller()
         {
-            throw new NotImplementedException();
+           var name = ReadName();
+           var username = ReadUser();
+           var password = ReadPassword();
+           var birthdate = ReadBirthdate();
+
+           var deliveryAddress = ReadAddress();
+           var billingAddress = ReadBillingAddress(deliveryAddress);
+
+           var user = new User
+           {
+               id = Database.Users.Count +1,
+               name = name,
+               username = username,
+               password = password,
+               birthDate = birthdate,
+               deliveryAddress = deliveryAddress,
+               billingAddress = billingAddress
+           };
+
+            Database.Users.Add(user);
         }
 
         public static void CreateClient()
         {
-            throw new NotImplementedException();
+          var name = ReadName();
+           var username = ReadUser();
+           var password = ReadPassword();
+           var birthdate = ReadBirthdate();
+
+           var deliveryAddress = ReadAddress();
+           var billingAddress = ReadBillingAddress(deliveryAddress);
+
+           var user = new User
+           {
+               id = Database.Users.Count +1,
+               name = name,
+               username = username,
+               password = password,
+               birthDate = birthdate,
+               deliveryAddress = deliveryAddress,
+               billingAddress = billingAddress
+           };
+
+            Database.Users.Add(user);
         }
 
 
@@ -110,7 +148,7 @@ namespace projeto_csharp_2
                 city = city,
                 state = state, 
                 country = country
-            }
+            };
         }
     }
 }
